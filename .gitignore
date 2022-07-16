@@ -352,3 +352,6 @@ MigrationBackup/
 .DS_Store
 .idea
 src/Database/Prototype/Output
+deploy/clouds/digital-ocean/.terraform/providers/registry.terraform.io
+deploy/clouds/digital-ocean/terraform.tfstate
+deploy/clouds/digital-ocean/.terraform.lock.hcl
